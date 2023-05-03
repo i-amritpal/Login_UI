@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "877787558762",
+    "project_id": "cselogin-29444",
+    "storage_bucket": "cselogin-29444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877787558762:android:dff5ab02f8266da517eb13",
+        "android_client_info": {
+          "package_name": "bbc.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877787558762-r6u4474b7td4tpm42rgtl8brlhs2bvqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAea8dzFo0n7wPyHQGUR2lEgnTN_-WRVaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877787558762-r6u4474b7td4tpm42rgtl8brlhs2bvqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877787558762:android:a5991c4d0611858117eb13",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877787558762-r6u4474b7td4tpm42rgtl8brlhs2bvqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAea8dzFo0n7wPyHQGUR2lEgnTN_-WRVaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877787558762-r6u4474b7td4tpm42rgtl8brlhs2bvqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
